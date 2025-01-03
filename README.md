@@ -25,4 +25,4 @@ Requires: Python >= 3.8
 - Doesn't work for HTTP only
 - Not working with sites with old TLS
 
-  thanks [theo0x0]([https://www.google.com](https://github.com/theo0x0))!
+Thanks [theo0x0](https://github.com/theo0x0) !
