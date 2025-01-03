@@ -1,10 +1,10 @@
 # No DPI [Mod by Max]
 Uses simple SSL fragmentation to avoid DPI.
 No system privileges needed.
-Uvloop support
-Windows support
-Logging support
-Correct exit
+Uvloop support.
+Windows support.
+Logging support.
+Correct exit.
 
 Currently works in Russia.
 
