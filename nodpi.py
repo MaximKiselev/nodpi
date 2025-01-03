@@ -163,7 +163,7 @@ if __name__ == "__main__":
             BLOCKED = f.read().splitlines()
         logging.info(f"Loaded blocked sites from '{BLOCKED_FILE}'. Total entries: {len(BLOCKED)}")
     except FileNotFoundError:
-        logging.warning(f"Blocked file '{BLOCKED_FILE}' not found. No sites will be blocked.")
+        logging.warning(f"Blocked file '{BLOCKED_FILE}' not found. No sites will be unblocked.")
 
     try:
         import sys
