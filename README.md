@@ -1,14 +1,13 @@
 # No DPI [Mod by Max]
-Uses simple SSL fragmentation to avoid DPI.
-No system privileges needed.
-Uvloop support.
-Windows support.
-Logging support.
-Correct exit.
+- Uses simple SSL fragmentation to avoid DPI.
+- No system privileges needed.
+- Uvloop support.
+- Windows support.
+- Logging support.
+- Correct exit.
+
 
 Currently works in Russia.
-
-Alternatives: [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
 
 ## How to install
 
@@ -25,3 +24,5 @@ Requires: Python >= 3.8
 - Only TCP
 - Doesn't work for HTTP only
 - Not working with sites with old TLS
+
+  thanks @
